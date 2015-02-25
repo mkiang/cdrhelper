@@ -50,7 +50,7 @@ ageweight = generatePopulation()
 
 ### Generate the call information
 There are two ways to generate call information. The first way (easy way) is just a wrapper for the second way. 
-The second way offers more control.
+The second way offers more control. At the end of either process, you will have `G` the underlying network, `df` a dataframe of call information, and `attr` attribute information for each node.
 
 #### (1) The easy way
 ```
@@ -91,11 +91,10 @@ df = generateCallData(data = df, mean_calls = 20, call_dur = 1.15,
                         mean_sms = 30, mean_mms = 15)
 ```
 
-Finally, reciprocate some of these calls.
+Finally, for the call dataset, reciprocate some of these calls.
 df = reciprocate(df_call = df, r_prob = .4)
 
-### Generate attribute information
-This is an example of generating attribute information. You can add more information (e.g., height, weight, etc), but 
+Now we need to generate attribute information. You can add more information (e.g., height, weight, etc), but 
 this is the minimum requirement for the rest of the module to work.
 ```
 attr = pd.DataFrame(data = G.nodes(), columns = ['A_num'])
@@ -107,7 +106,7 @@ attr['age'] = np.random.choice(range(18, 106),
 ```
 
 ### Insert missingness
-Most CDR attribute data will contain (sometimes significant) missingness. Add some here.
+Most CDR attribute data will contain (sometimes significant) missingness in the attribute data -- missingness in the call data is possible, but less common. Add some missingness to the attribute data by specifying what proportion of missingness there should be for each column.
 ```
 attr = insertMissing(attr = attr, p_post = .1, p_age = .15, p_gender = .2)
 ```
