@@ -19,8 +19,8 @@ CDRs come in a wide range of formats and styles, but the most basic (aggregated)
 20130101;293;849;15;18.7;31;12
 ```
 
-Representing `date`, `caller id`, `recipient id`, `number of calls`, `minutes`, `text messages`, and `mms messages`. 
-Each column is delimited by a semi-colon (;) and missingness is represented by a blank space (` `). Each column is `int` 
+Representing `date`, `caller id`, `recipient id`, `number of calls`, `minutes`, `text messages`, and `mms messages`, respectively. 
+Each column is delimited by a semicolon (`;`) and missingness is represented by a blank space (` `). Each column is `integer` 
 except for `minutes` which is `float`.
 
 If you're lucky, you'll sometimes get an attribute file which will look like this:
@@ -31,7 +31,7 @@ If you're lucky, you'll sometimes get an attribute file which will look like thi
 4;2066;F; 
 5;1356;F;59
 ```
-Representing `caller id`, `zip code`, `sex`, and `age`. Again, delimited by semi-colon with a space to represent a missing 
+Representing `caller id`, `zip code`, `sex`, and `age`, respectively. Again, delimited by semicolon with a space to represent a missing 
 value.
 
 
@@ -101,7 +101,7 @@ this is the minimum requirement for the rest of the module to work.
 attr = pd.DataFrame(data = G.nodes(), columns = ['A_num'])
 attrrows = len(attr)
 attr['postcode'] = np.random.choice(postcodes['Postal Code'], attrrows)
-attr['gender'] = np.random.choice(["K", "M"], attrrows)
+attr['gender'] = np.random.choice(["F", "M"], attrrows)
 attr['age'] = np.random.choice(range(18, 106), 
                         p = ageweight, size = attrrows)
 ```
