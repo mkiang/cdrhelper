@@ -92,7 +92,9 @@ df = generateCallData(data = df, mean_calls = 20, call_dur = 1.15,
 ```
 
 Finally, for the call dataset, reciprocate some of these calls.
+```
 df = reciprocate(df_call = df, r_prob = .4)
+```
 
 Now we need to generate attribute information. You can add more information (e.g., height, weight, etc), but 
 this is the minimum requirement for the rest of the module to work.
