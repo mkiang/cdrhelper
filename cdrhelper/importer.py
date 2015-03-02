@@ -41,7 +41,7 @@ def importNodes(afile):
             male = 1 if acolumns[2]=="M" else 0     # note ternary operation
         
         # age discretization
-        if (age < 20):
+        if (age < 20) and (age is not None):
             agecat = 0
         elif (age >= 20) and (age < 30):
             agecat = 20
