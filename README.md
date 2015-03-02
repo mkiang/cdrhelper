@@ -36,6 +36,9 @@ value.
 
 
 ## Usage
+### Installation
+Download all files as a zip and put the `cdrhelper` directory (the subfolder containing `__init__.py`) into your working directory. There may be some issues on Windows machines -- looking into a workaround.
+
 ### Import
 ```
 from cdrhelper import *
