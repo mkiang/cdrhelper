@@ -1,22 +1,20 @@
-## Population (Age * Sex) Data
-Collection of randomly generated population structure files --- note: they are **very** random and will likely not reflect a true population. I just made it as a positive control and to display the proper format.
+## Postal Code Data
+This is just a collection of data downloaded from AggData.com (see [this link](https://www.aggdata.com/search/node/list%20of%20postal%20codes) for specific query).
 
 ## Format
-These are all in the format required for the `sourcefile` option of the `generatePopulation()` function.
+These are all in the format required for the `sourcefile` option of the `generatePostcode()` function.
 
-Specifically, these are delimited with commas, contain a header, and have four columns (though the header has an empty left column). The datatype within each column is `int`. In general (but not always), the `head` of the table will look like so:
+Specifically, these are delimited with commas, contain a header, and have six columns. The datatype within each column depends on the specific format of that country. In general (but not always), the `head` of the table will look like so:
 
-||Both sexes| Males | Females | 
-|---|---|---|---|
-0|59335|30330|29005
-1|61440|31532|29908
-2|62184|32035|30149
-3|63986|32758|31228
-4|64967|33362|31605
-5|63832|32859|30973
+|Postal Code | Place name | State | County | Latitude | Longitude|
+|---|---|---|---|---|---|
+1111|StringA|Another StringU|Other StringM|11.2311|53.1231|
+1111|StringB|Another StringV|Other StringN|15.2311|32.1231|
+1111|StringC|Another StringX|Other StringO|18.2311|82.1231|
+1111|StringD|Another StringY|Other StringP|31.2311|56.1231|
+1111|StringE|Another StringZ|Other StringQ|86.2311|01.1231|
 
-Obviously, all those numbers are made up. The leftmost column (missing header) is the age and the right three columns represent the count of people in that population. Thus, there are 59335 infants in this population (30330 of whom are male).
+Obviously, all those numbers are made up, but in general the postal code will be `int` (sometimes a mix of `int` and `char`), names of the place, state, and county will all be `char` and latitude, longitude will be `float`.
 
-## Real Examples
-As I get more time, I'll get real data from counties and generate `csv`s that match this format.
-
+## Countries
+One day, when I find the time, I'll made a list of the abbreviations for each country. For now, you'll just have to google the state or county name and figure it out.
