@@ -1,0 +1,771 @@
+Postal Code,Place Name,State,Latitude,Longitude
+10100,Samphanthawong,Bangkok,13.7333,100.5
+10110,Wattana,Bangkok,13.7083,100.4562
+10120,Bang Kholame,Bangkok,13.7083,100.4562
+10140,Thung Khru,Bangkok,13.6833,100.5
+10150,Bang Bon,Bangkok,13.7,100.4667
+10160,Nong Khaem,Bangkok,13.6833,100.35
+10170,Thawi Wattana,Bangkok,13.7667,100.45
+10200,Phra Nakhon,Bangkok,13.75,100.5167
+10210,Lak Si,Bangkok,14.1833,100.2833
+10220,Sai Mai,Bangkok,13.8667,100.6
+10230,Lat Phrao,Bangkok,14.3333,99.9167
+10240,Saphan Sung B39,Bangkok,13.7667,100.65
+10250,Pra Vet,Bangkok,13.8583,100.4688
+10260,Phra Khanong,Bangkok,13.7,100.6
+10300,Dusit,Bangkok,13.7833,100.5167
+10310,Wangthong Lang,Bangkok,13.7833,100.5167
+10320,Huai Khwang,Bangkok,13.7833,100.5167
+10330,Pahtum Wan,Bangkok,13.7833,100.5167
+10400,Ding Daeng,Bangkok,13.7625,100.531
+10500,Bang Rak,Bangkok,13.7333,100.5333
+10510,Khlong Samwa,Bangkok,13.8167,100.75
+10520,Lat Krabang,Bangkok,13.7167,100.7833
+10530,Nong Chok,Bangkok,13.85,100.8667
+10600,Thon Buri,Bangkok,13.7167,100.4833
+10700,Bangkok Noi,Bangkok,13.75,100.4833
+10800,Bang Su,Bangkok,13.8,100.5333
+10130,Phra Pradaeng,Samut Prakan,13.6667,100.5333
+10270,Muang Samut Prakan,Samut Prakan,13.6,100.6
+10290,Phra Samut Chedi,Samut Prakan,13.8583,100.4688
+10540,Bang Saotong,Samut Prakan,13.6,100.7167
+10560,Bang Bo,Samut Prakan,13.5833,100.8167
+11000,Muang Nonthaburi,Nonthaburi,13.89,100.4333
+11110,Bang Bua Thong,Nonthaburi,13.9167,100.4333
+11120,Pak Kret,Nonthaburi,13.9167,100.5
+11130,Bang Kruai,Nonthaburi,13.8,100.4833
+11140,Bang Yai,Nonthaburi,13.85,100.4333
+11150,Sai Noi,Nonthaburi,13.9667,100.3167
+12000,Muang Pathum Thani,Pathum Thani,14.0433,100.64
+12110,Thanyaburi,Pathum Thani,14.0433,100.64
+12120,Khlong Luang,Pathum Thani,14.0667,100.65
+12140,Lat Lum Kaeo,Pathum Thani,14.0333,100.4167
+12150,Lam Luk Ka,Pathum Thani,13.9333,100.75
+12160,Sam Khok,Pathum Thani,14.05,100.55
+12170,Nong Sua,Pathum Thani,14.1333,100.8333
+14000,Muang ANG THONG,Ang Thong,14.5833,100.45
+14110,Wiset Chai Chan,Ang Thong,14.5833,100.35
+14120,Pho Thong,Ang Thong,14.6667,100.4167
+14130,Pa Mok,Ang Thong,14.4833,100.45
+14140,Chaiyo,Ang Thong,14.65,100.4667
+14150,Sawaengha,Ang Thong,14.5958,100.4208
+14160,Samko,Ang Thong,14.5958,100.4208
+18000,Muang Saraburi,Saraburi,14.5521,100.9003
+18110,Kaeng Khoi,Saraburi,14.5881,101.0031
+18120,Phra Phutthabat,Saraburi,14.7167,100.8
+18130,Ban Mo,Saraburi,14.6167,100.7333
+18140,Nong Khae,Saraburi,14.3333,100.8667
+18150,Wihan Daeng,Saraburi,14.35,101
+18160,Sao Hai,Saraburi,14.55,100.85
+18170,Nong Saeng,Saraburi,14.4833,100.7833
+18180,Muak Lek,Saraburi,14.5833,101.2167
+18190,Nong Doan,Saraburi,14.5277,100.9066
+18210,Don Phut,Saraburi,14.5833,100.6667
+18220,Wang Muang,Saraburi,14.7167,101.0833
+21000,Muang Rayong,Rayong,12.6667,101.2833
+21110,Khao Chamao,Rayong,12.7833,101.65
+21120,Ban Khai,Rayong,12.7833,101.3
+21130,Ban Chang,Rayong,12.7167,101.0667
+21140,Pluak Daeng,Rayong,12.9667,101.2167
+21180,Nikhom Pattana,Rayong,12.8125,101.3083
+21210,Wang Chan,Rayong,12.9333,101.5167
+22000,Muang Chanthaburi,Chanthaburi,12.6528,102.1222
+22110,Khlung,Chanthaburi,12.45,102.2333
+22120,Tha Mai,Chanthaburi,12.6167,102.0167
+22130,Laem Sing,Chanthaburi,12.4833,102.0667
+22140,Pong Nam Ron,Chanthaburi,12.9167,102.3833
+22150,Makham,Chanthaburi,12.6667,102.2
+22160,Na Yai Am,Chanthaburi,12.7833,101.8333
+22180,Soi Dao,Chanthaburi,12.6528,102.1222
+22210,Khao Kitchakut,Chanthaburi,12.6528,102.1222
+23000,Muang Trat,Trat,12.2131,102.5776
+23110,Khlong Yai,Trat,11.7667,102.9
+23120,Ko Chang,Trat,12.1667,102.4333
+23130,Khao Saming,Trat,12.35,102.45
+23140,Bo Rai,Trat,12.5692,102.5272
+24000,Khlong Kaen,Chachoengsao,13.6861,101.1944
+24110,Bang Khla,Chachoengsao,13.7167,101.2167
+24120,Rachsan,Chachoengsao,13.75,101.35
+24130,Bang Pakong,Chachoengsao,13.55,101
+24140,Ban Pho,Chachoengsao,13.6,101.0833
+24150,Bang Nam Prieo,Chachoengsao,13.85,101.0667
+24160,Sanam Chai Khet,Chachoengsao,13.65,101.45
+24190,Paeng Yao,Chachoengsao,13.6861,101.1944
+26000,Muang Nakhon Nayok,Nakhon Nayok,14.2031,101.2147
+26110,Ban Na,Nakhon Nayok,14.2592,101.0683
+26120,Ongkarak,Nakhon Nayok,14.2114,101.1653
+26130,Pak Phli,Nakhon Nayok,14.1636,101.2622
+27000,Muang Sa Kaeo,Sa Kaeo,13.8442,102.6536
+27120,Wang Nam Yen,Sa Kaeo,13.6833,102.5
+27160,Wattana Nakhon,Sa Kaeo,13.8442,102.6536
+27180,Ta Phraya,Sa Kaeo,14.005,102.8072
+27250,Wang Sombun,Sa Kaeo,13.8442,102.6536
+27260,Khlong Hat,Sa Kaeo,13.8442,102.6536
+30000,Muang Nakhon Ratchasima,Nakhon Ratchasima,15.0555,102.2148
+30110,Phimai,Nakhon Ratchasima,15.2167,102.5
+30120,Bua Lai,Nakhon Ratchasima,15.5833,102.4167
+30130,Pak Chong,Nakhon Ratchasima,14.7042,101.4131
+30140,Sikhiu,Nakhon Ratchasima,14.8994,101.7083
+30150,Pak Thong Chai,Nakhon Ratchasima,14.7453,102.0283
+30160,Non Sung,Nakhon Ratchasima,15.1833,102.2667
+30170,Sung Noen,Nakhon Ratchasima,14.8989,101.8139
+30180,Prathai,Nakhon Ratchasima,15.5167,102.8
+30190,Chok Chai,Nakhon Ratchasima,14.7333,102.1667
+30210,Theparak,Nakhon Ratchasima,15.2064,101.8058
+30220,Non Thai,Nakhon Ratchasima,15.2,102.0667
+30230,Cheleam Phakiat,Nakhon Ratchasima,15,102.2667
+30240,Huai Thalaeng,Nakhon Ratchasima,15.0028,102.6556
+30250,Khon Buri,Nakhon Ratchasima,14.5167,102.25
+30260,Khong,Nakhon Ratchasima,15.4333,102.3333
+30270,Chum Phuang,Nakhon Ratchasima,15.3167,102.7667
+30280,Kham Thale So,Nakhon Ratchasima,14.9747,101.985
+30290,Kham Sakae Saeng,Nakhon Ratchasima,15.3333,102.1833
+30330,Soeng Sang,Nakhon Ratchasima,14.4167,102.4833
+30350,Ban Luam,Nakhon Ratchasima,15.5833,102.15
+30360,Non Daeng,Nakhon Ratchasima,15,102.3167
+30370,Wang Nam Khyo,Nakhon Ratchasima,15,102.3167
+30410,Nong Bunnak,Nakhon Ratchasima,14.7,102.45
+30430,Sida,Nakhon Ratchasima,14.7,102.45
+30440,Kang Sanam Nang,Nakhon Ratchasima,14.7,102.45
+34000,Don Moddang,Ubon Ratchathani,14.7861,103.9111
+34140,Muang Samsib,Ubon Ratchathani,15.6417,105.225
+34150,Khuang Nai,Ubon Ratchathani,15.6417,105.225
+34160,Det Udom,Ubon Ratchathani,15.6417,105.225
+34170,Khemarat,Ubon Ratchathani,16.05,105.2167
+34220,Khong Chiam,Ubon Ratchathani,14.2,103.6583
+34230,Buntharik,Ubon Ratchathani,14.2,103.6583
+34270,Kut Khaopun,Ubon Ratchathani,14.2,103.6583
+34280,Na Chaluai,Ubon Ratchathani,14.2,103.6583
+35000,Muang Yasothon,Yasothon,15.7953,104.1494
+35110,Kham Khuan Kaeo,Yasothon,15.65,104.3167
+35120,Loeng Nok Tha,Yasothon,15.6633,104.3067
+35130,Maha Chana Chai,Yasothon,15.5333,104.25
+35140,Kud Chum,Yasothon,15.6633,104.3067
+35150,Pa Tiu,Yasothon,15.8333,104.3833
+35160,Kho Wang,Yasothon,15.35,104.3667
+35170,Sai Mun,Yasothon,15.95,104.2167
+36000,Muang Chaiyaphum,Chaiyaphum,16.0085,101.9828
+36110,Phu Khieo,Chaiyaphum,16.3667,102.1333
+36120,Kaset Sombun,Chaiyaphum,16.2833,101.95
+36130,Sub Yai,Chaiyaphum,15.5647,101.8414
+36140,Khon Sawan,Chaiyaphum,15.9333,102.2833
+36150,Kaeng Khro,Chaiyaphum,16.1,102.2667
+36160,Bamnet Narong,Chaiyaphum,15.4992,101.6897
+36170,Ban Khwao,Chaiyaphum,15.7633,101.9131
+36180,Khon San,Chaiyaphum,16.35,101.8333
+36190,Ban Thaen,Chaiyaphum,16.4,102.3333
+36210,Nong Bua Daeng,Chaiyaphum,16.0833,101.8
+36230,Thep Satthit,Chaiyaphum,15.9167,101.7833
+36250,Nong Bua Rawe,Chaiyaphum,15.75,101.7667
+36260,Phakdi Chumpon,Chaiyaphum,15.9167,101.7833
+37000,Lua Amnart,Amnat Charoen,15.7075,104.6797
+37110,Phathumratvongsa,Amnat Charoen,15.6983,104.8928
+37180,Phana,Amnat Charoen,15.6983,104.8928
+37210,Chanunman,Amnat Charoen,15.7167,104.4667
+37240,Hua Taphan,Amnat Charoen,15.7167,104.4667
+37290,Senangkhanikhorn,Amnat Charoen,15.7167,104.4667
+40000,Muang Khonkaen,Khon Kaen,16.2931,102.6157
+40110,Ban Had,Khon Kaen,16.0667,102.7333
+40120,Phon,Khon Kaen,15.8167,102.6
+40130,Chum Phae,Khon Kaen,16.5333,102.1
+40140,Nam Phong,Khon Kaen,16.7,102.8667
+40150,Nong Nakham,Khon Kaen,16.65,102.3833
+40160,Khok Phochai,Khon Kaen,16.1167,102.55
+40170,Sum Sung,Khon Kaen,16.7,103.0833
+40180,Chonnabot,Khon Kaen,16.1,102.6333
+40190,Nong Song Hong,Khon Kaen,15.7333,102.8
+40210,Nong Rua,Khon Kaen,16.5,102.4333
+40220,Si Chomphu,Khon Kaen,16.8,102.2
+40230,Waeng Noi,Khon Kaen,15.8,102.4667
+40250,Ubolratana,Khon Kaen,16.48,102.5233
+40270,Ban Fang,Khon Kaen,16.45,102.6333
+40280,Khao Suan Kwang,Khon Kaen,16.85,102.8833
+40320,Phra Yun,Khon Kaen,16.3333,102.65
+40330,Waeng Yai,Khon Kaen,15.95,102.5333
+40340,Puai Noi,Khon Kaen,15.8833,102.9167
+40350,Phu Pha Man,Khon Kaen,16.0556,102.7
+41000,Muang Udon Thani,Udon Thani,17.1336,102.9675
+41110,Phrachuk Siliakram,Udon Thani,17.1336,102.9675
+41130,Pibun Rak,Udon Thani,17.1336,102.9675
+41150,Phen,Udon Thani,17.1336,102.9675
+41190,Ban Dung,Udon Thani,17.1336,102.9675
+41210,Nam Som,Udon Thani,17.1336,102.9675
+41220,Nong Wua So,Udon Thani,17.1336,102.9675
+41230,Si That,Udon Thani,17.1336,102.9675
+41240,Non Sa-at,Udon Thani,17.1336,102.9675
+41250,Kut Chab,Udon Thani,17.1336,102.9675
+41260,Sang Khom,Udon Thani,17.1336,102.9675
+41290,Chaiwan,Udon Thani,17.1336,102.9675
+41310,Thung Fon,Udon Thani,17.1336,102.9675
+41340,Nong Saeng,Udon Thani,17.1336,102.9675
+41380,Na Yung,Udon Thani,17.1336,102.9675
+42000,Muang Loei,Loei,17.4833,101.7167
+42110,Chiang Khan,Loei,17.8667,101.6
+42120,Dan Sai,Loei,17.2833,101.15
+42130,Wang Saphung,Loei,17.3,101.7667
+42140,Tha Li,Loei,17.6167,101.4167
+42150,Pak Chom,Loei,18.0333,101.8833
+42160,Phu Rua,Loei,17.45,101.3667
+42170,Na Haeo,Loei,17.4833,101.0667
+42180,Phu Kradung,Loei,16.8833,101.8833
+42210,Na Duang,Loei,17.4833,101.9833
+42230,Phu Luang,Loei,17.1667,101.7667
+42240,Pha Khao,Loei,17.325,101.875
+43000,Muang Nong Khai,Nong Khai,18.0501,103.3054
+43100,Sra Khai,Nong Khai,18.0613,103.2227
+43110,Tha Bo,Nong Khai,17.845,102.5842
+43120,Phon Phisai,Nong Khai,18.0167,103.0833
+43130,Po Tak,Nong Khai,17.9564,102.5867
+43140,Bung Kla,Nong Khai,18.3833,103.6167
+43150,Seka,Nong Khai,17.9333,103.95
+43160,Sang Khom,Nong Khai,18.0613,103.2227
+43170,So Phisai,Nong Khai,18.0667,103.4333
+43180,Phon Charoen,Nong Khai,18.0333,103.1667
+43190,Pak Khat,Nong Khai,18.3,103.3
+43210,Si Wilai,Nong Khai,17.95,104.05
+43220,Bung Khong Long,Nong Khai,17.95,104.05
+44000,Muang Maha Sarakham,Maha Sarakham,15.955,103.1867
+44110,Phayakkhaphum Phisai,Maha Sarakham,15.5167,103.2
+44120,Wapi Pathum,Maha Sarakham,15.85,103.3833
+44130,Borabu,Maha Sarakham,16.0333,103.1167
+44140,Kosum Phisai,Maha Sarakham,16.2167,103.0167
+44150,Kantharawichai,Maha Sarakham,16.3167,103.3
+44160,Chuan Chum,Maha Sarakham,16.4167,103.1
+44170,Na Chuak,Maha Sarakham,15.7833,103.0333
+44180,Na Dun,Maha Sarakham,15.7167,103.2333
+44190,Kae Dam,Maha Sarakham,16.0167,103.3833
+44210,Yang Si Surat,Maha Sarakham,15.6833,103.1
+45000,Chang Han,Roi Et,16.7167,102.7333
+45110,Phon Thong,Roi Et,16.1167,103.8333
+45120,Salaphum,Roi Et,15.8059,103.7251
+45130,Suwannaphum,Roi Et,15.6047,103.8075
+45140,Nong Hi,Roi Et,15.6167,103.9833
+45150,Kaset Wisai,Roi Et,15.65,103.5833
+45160,At Samat,Roi Et,15.8594,103.8597
+45170,Thawatchaburi,Roi Et,16.1167,103.8333
+45180,Chaturaphak Phiman,Roi Et,15.85,103.55
+45190,Pathum Rat,Roi Et,15.6333,103.35
+45210,Nong Phok,Roi Et,15.649,103.8556
+45220,Muang Suang,Roi Et,15.8167,103.7167
+45230,Pho Chai,Roi Et,15.649,103.8556
+45240,Phon Sai,Roi Et,15.4814,103.9944
+45250,Moeiyawadi,Roi Et,15.649,103.8556
+46000,Muang Kalasin,Kalasin,16.4333,103.5
+46110,Kuchinarai,Kalasin,16.5333,104.0667
+46120,Yang Talat,Kalasin,16.4,103.3833
+46130,Kamalasai,Kalasin,16.3333,103.5833
+46140,Sahatsakhan,Kalasin,16.7833,103.5833
+46150,Somdet,Kalasin,16.7,103.7667
+46160,Khao Wong,Kalasin,16.7,104.1
+46170,Huai Mek,Kalasin,16.6,103.2167
+46180,Kham Muang,Kalasin,16.9167,103.6333
+46190,Tha Khantho,Kalasin,16.95,103.2333
+46210,Rong Kham,Kalasin,16.2667,103.6833
+46220,Nong Kung Si,Kalasin,16.65,103.3
+46230,Na Mon,Kalasin,16.5667,103.8
+46240,Huai Phung,Kalasin,16.65,103.9
+47000,Muang Sakon Nakhon,Sakon Nakhon,17.4046,103.7674
+47110,Sawang Daen Din,Sakon Nakhon,17.4719,103.4583
+47120,Wanon Niwat,Sakon Nakhon,17.6333,103.7667
+47130,Phanna Nikhom,Sakon Nakhon,17.35,103.7833
+47140,Ban Muang,Sakon Nakhon,17.85,103.5833
+47150,Waritchaphum,Sakon Nakhon,17.2833,103.6333
+47160,Phang Khon,Sakon Nakhon,17.3833,103.7167
+47170,Akat Amnuai,Sakon Nakhon,17.434,103.6615
+47180,Phu Phan,Sakon Nakhon,17.0833,103.8167
+47190,Song Dao,Sakon Nakhon,17.4167,103.5333
+47210,Kusuman,Sakon Nakhon,17.3333,104.3333
+47230,Pon Nakaew,Sakon Nakhon,17.3458,103.9792
+47250,Kham Ta Kla,Sakon Nakhon,17.85,103.75
+47260,Tao Ngoi,Sakon Nakhon,16.9833,104.1333
+47270,Nikhom Nam Un,Sakon Nakhon,17.2167,103.7
+47280,Khok Si Supan,Sakon Nakhon,17.3458,103.9792
+47290,Charoensin,Sakon Nakhon,17.3458,103.9792
+48000,Muang Nakhon Phanom,Nakhon Phanom,17.4,104.7833
+48110,That Phanom,Nakhon Phanom,16.95,104.7333
+48120,Tha Uthen,Nakhon Phanom,17.5667,104.6
+48130,Wang Yang,Nakhon Phanom,16.9667,104.5
+48140,Na Thom,Nakhon Phanom,17.9667,104.2333
+48150,Si Songkhram,Nakhon Phanom,17.6333,104.25
+48160,Pla Pak,Nakhon Phanom,17.1833,104.5333
+48170,Renu Nakhon,Nakhon Phanom,17.0667,104.6833
+48180,Na Wa,Nakhon Phanom,17.4833,104.1
+48190,Phon Sawan,Nakhon Phanom,17.45,104.45
+49000,Muang Mukdahan,Mukdahan,16.4792,104.6583
+49110,Khamcha-I,Mukdahan,16.5833,104.4167
+49120,Don Tan,Mukdahan,16.3167,104.9333
+49130,Nikhom Kham Soi,Mukdahan,16.3667,104.5667
+49140,Don Luang,Mukdahan,16.4792,104.6583
+49150,Wan Yai,Mukdahan,16.65,104.7167
+49160,Nong Sung,Mukdahan,16.4792,104.6583
+50000,Muang Chiang Mai,Chiang Mai,18.7903,98.9817
+50110,Fang,Chiang Mai,19.9167,99.2167
+50120,San Pa Tong,Chiang Mai,18.6247,98.8944
+50130,San Kamphaeng,Chiang Mai,18.7422,99.1225
+50140,Saraphi,Chiang Mai,18.7142,99.0353
+50150,Mae Taeng,Chiang Mai,19.1167,98.95
+50160,Doi Lor,Chiang Mai,18.4269,98.6781
+50170,Chiang Dao,Chiang Mai,19.3667,98.9667
+50180,Mae Rim,Chiang Mai,18.9122,98.9397
+50190,Phrao,Chiang Mai,19.3667,99.2167
+50210,San Sai,Chiang Mai,18.8522,99.0453
+50220,Doi Saket,Chiang Mai,18.8744,99.1356
+50230,Hang Dong,Chiang Mai,18.6872,98.9167
+50240,Hot,Chiang Mai,18.19,98.6089
+50250,Samoeng,Chiang Mai,18.8503,98.7328
+50260,Doi Tao,Chiang Mai,17.9,98.7333
+50270,Mae Chaem,Chiang Mai,18.5014,98.3611
+50280,Mae Ai,Chiang Mai,18.5508,98.7905
+50310,Omkoi,Chiang Mai,17.8,98.3667
+50320,Chai Prakarn,Chiang Mai,18.8583,98.825
+50350,Weang Hang,Chiang Mai,18.8583,98.825
+50360,Mae Wang,Chiang Mai,19.9167,99.2833
+51000,Muang Lamphun,Lamphun,18.5811,99.0092
+51110,Li,Lamphun,17.8,98.95
+51120,Pa Sang,Lamphun,18.5244,98.9386
+51130,Ban Hong,Lamphun,18.3147,98.8175
+51140,Mae Tha,Lamphun,18.4614,99.1361
+51160,Thung Hua Chang,Lamphun,18,99.0333
+51180,Ban Thi,Lamphun,18.2201,98.9751
+52000,Muang Lampang,Lampang,18.2983,99.5072
+52110,Ngao,Lampang,18.7575,99.9783
+52120,Chae Hom,Lampang,18.7022,99.5664
+52130,Ko Kha,Lampang,18.19,99.3928
+52140,Wang Nua,Lampang,19.15,99.6167
+52150,Mae Tha,Lampang,18.1306,99.5092
+52160,Thoen,Lampang,17.6025,99.2139
+52170,Sop Prap,Lampang,17.8761,99.3431
+52180,Mae Phrik,Lampang,17.4453,99.1222
+52190,Hang Chat,Lampang,18.3264,99.3478
+52210,Soem Ngam,Lampang,18.0333,99.2667
+52220,Mae Mo,Lampang,18.2611,99.7042
+52240,Muang Pan,Lampang,18.75,99.5
+53000,Muang Uttaradit,Uttaradit,17.7168,100.5445
+53110,Nam Pat,Uttaradit,17.7333,100.5667
+53120,Phichai,Uttaradit,17.2872,100.0967
+53130,Laplae,Uttaradit,17.7168,100.5445
+53140,Tron,Uttaradit,17.4778,100.1189
+53150,Tha Pla,Uttaradit,17.8,100.5333
+53160,Fak Tha,Uttaradit,17.9833,100.8833
+53180,Ban Khok,Uttaradit,18.0189,101.0681
+53230,Tong Saen Khan,Uttaradit,17.7168,100.5445
+54000,Muang Phrae,Phrae,18.15,100.1333
+54120,Song,Phrae,18.4667,100.1833
+54130,Sung Men,Phrae,18.05,100.1167
+54140,Den Chai,Phrae,17.9794,100.0533
+54150,Long,Phrae,18.0747,99.8303
+54160,Wang Chin,Phrae,17.8908,99.6064
+54170,Nong Muangkhai,Phrae,18.1353,100.0178
+55000,Phu Piang,Nan,18.7833,100.7833
+55110,Wiang Sa,Nan,18.5667,100.75
+55120,Pua,Nan,19.1833,100.9167
+55130,Thung Chang,Nan,19.4167,100.8833
+55140,Tha Wang Pha,Nan,19.1,100.8167
+55150,Na Noi,Nan,18.3167,100.7167
+55160,Song Khaew,Nan,19.3,100.8667
+55170,Mae Charim,Nan,18.7167,101.0333
+55180,Na Mun,Nan,18.1833,100.6667
+55190,Ban Luang,Nan,18.8333,100.45
+55220,Bo Klua,Nan,19.0833,101.0833
+56000,Muang Phayao,Phayao,19.1667,99.9167
+56110,Chiang Kham,Phayao,19.5239,100.2992
+56120,Dok Kham Tai,Phayao,19.3302,100.2497
+56130,Mae Chai,Phayao,19.3302,100.2497
+56140,Pong,Phayao,19.1667,100.2833
+56150,Chun,Phayao,19.3,100.1667
+56160,Chiacg Muan,Phayao,19.3302,100.2497
+57000,Muang Chiang Rai,Chiang Rai,19.9,99.8333
+57110,Mae Pha Luang,Chiang Rai,20.2236,100.0936
+57120,Phan,Chiang Rai,19.5667,99.7333
+57130,Mae Sai,Chiang Rai,20.43,99.8858
+57140,Chiang Khong,Chiang Rai,20.2833,100.4
+57150,Chiang Saen,Chiang Rai,20.1472,99.8539
+57160,Thoeng,Chiang Rai,19.6833,100.2
+57170,Wiang Pa Pao,Chiang Rai,19.3667,99.5
+57180,Mae Suai,Chiang Rai,19.65,99.55
+57190,Pa Daet,Chiang Rai,19.5,100
+57210,Wiang Chai,Chiang Rai,19.8833,99.9167
+57250,Mae Lao,Chiang Rai,19.8833,99.9167
+57290,Phaya Mengrai,Chiang Rai,19.8833,99.9167
+57310,Wiang Kaen,Chiang Rai,19.9048,99.9217
+57340,Khun Tan,Chiang Rai,19.9048,99.9217
+58000,Muang Mae Hong Son,Mae Hong Son,18.6712,98.0633
+58110,Sop Moei,Mae Hong Son,18.1578,97.9336
+58120,Mae La Noi,Mae Hong Son,18.3814,97.9356
+58130,Pai,Mae Hong Son,19.3167,98.45
+58140,Khun Yuam,Mae Hong Son,18.8289,97.9342
+58150,Pang Mapha,Mae Hong Son,18.6712,98.0633
+60000,Muang Nakhon Sawan,Nakhon Sawan,15.6833,100.1167
+60110,Nong Bua,Nakhon Sawan,15.8667,100.5833
+60120,Chumsaeng,Nakhon Sawan,15.6454,100.2218
+60130,Phayuha Khiri,Nakhon Sawan,15.45,100.1333
+60140,Takhli,Nakhon Sawan,15.6454,100.2218
+60150,Mae Wong,Nakhon Sawan,15.7506,99.7903
+60160,Tha Tako,Nakhon Sawan,15.6333,100.4833
+60170,Krok Phra,Nakhon Sawan,15.55,100.0833
+60180,Banphot Phisai,Nakhon Sawan,15.9342,99.9789
+60190,Tak Fa,Nakhon Sawan,15.3333,100.5
+60220,Phaisali,Nakhon Sawan,15.6,100.65
+60230,Kao Lieo,Nakhon Sawan,15.85,100.0833
+61000,Muang Uthai Thani,Uthai Thani,15.3667,100.05
+61110,Nong Chang,Uthai Thani,15.3919,99.8439
+61120,Thap Than,Uthai Thani,15.4594,99.8925
+61130,Nong Khayang,Uthai Thani,15.3619,99.9292
+61140,Ban Rai,Uthai Thani,15.3667,99.85
+61150,Sawang Arom,Uthai Thani,15.6167,99.8667
+61160,Lan Sak,Uthai Thani,15.4167,99.6833
+61170,Huai Khot,Uthai Thani,15.1333,99.5667
+62000,Muang Kamphaeng Phet,Kamphaeng Phet,16.31,99.68
+62110,Phran Kratai,Kamphaeng Phet,16.6667,99.6
+62120,Khlong Khlung,Kamphaeng Phet,16.2,99.7167
+62130,Khanu Woralaksaburi,Kamphaeng Phet,16.0667,99.8667
+62150,Sai Ngam,Kamphaeng Phet,16.5,99.9167
+62170,Khosamphi Nakhon,Kamphaeng Phet,16.31,99.68
+62180,Khlong Lan,Kamphaeng Phet,16.1167,99.3
+62190,Saithong Wattana,Kamphaeng Phet,16.31,99.68
+62210,Bung Samakki,Kamphaeng Phet,16.31,99.68
+63000,Wang Chaw,Tak,16.8667,99.1333
+63110,Mae Sot,Tak,16.7167,98.5667
+63120,Ban Tak,Tak,17.0406,99.0631
+63130,Sam Ngao,Tak,17.2119,99.0578
+63140,Mae Ramat,Tak,16.9667,98.5167
+63150,Tha Song Yang,Tak,17.2167,98.2333
+63160,Phob Phra,Tak,16.8615,98.7174
+63170,Umphang,Tak,16.0167,98.8667
+64000,Muang Sukhothai,Sukhothai,17.1772,99.8064
+64110,Sawankhalok,Sukhothai,17.3086,99.8342
+64120,Si Samrong,Sukhothai,17.1631,99.8672
+64130,Si Satchanalai,Sukhothai,17.5167,99.7667
+64140,Ban Dan Lan Hoi,Sukhothai,17.0153,99.7078
+64150,Thung Saliam,Sukhothai,17.3136,99.5589
+64160,Khiri Mat,Sukhothai,16.8333,99.8
+64170,Kong Krailat,Sukhothai,16.9333,99.9667
+64180,Si Nakhon,Sukhothai,17.3333,99.95
+65000,Muang Phitsanulok,Phitsanulok,16.8333,100.25
+65110,Bang Krathum,Phitsanulok,16.5667,100.3
+65120,Nakhon Thai,Phitsanulok,17.1167,100.8333
+65130,Wang Thong,Phitsanulok,16.8333,100.4333
+65140,Bang Rakam,Phitsanulok,16.75,100.1167
+65150,Phrom Phiram,Phitsanulok,17.0331,100.2019
+65160,Wat Bot,Phitsanulok,17,100.3167
+65170,Chat Trakan,Phitsanulok,17.2833,100.65
+65190,Noen Maprang,Phitsanulok,16.5667,100.6333
+66000,Muang Phichit,Phichit,16.4333,100.3667
+66110,Taphan Hin,Phichit,16.2167,100.4333
+66120,Bang Mun Nak,Phichit,16.0333,100.3833
+66130,Bung Norong,Phichit,16.0833,100.2667
+66140,Wachirabarami,Phichit,16.5167,100.2167
+66150,Tab Khlo,Phichit,16.2722,100.35
+66160,Sak Lek,Phichit,16.4833,100.4833
+66180,Wang Sai Phun,Phichit,16.2722,100.35
+66190,Pho Prathap Chang,Phichit,16.3,100.3167
+66210,Dong Charoen,Phichit,16.2952,100.3524
+70000,Muang Ratchaburi,Ratchaburi,13.5854,99.7875
+70110,Ban Pong,Ratchaburi,13.8167,99.8833
+70120,Photharam,Ratchaburi,13.6833,99.85
+70130,Damnoen Saduak,Ratchaburi,13.5167,99.9333
+70140,Pak Tho,Ratchaburi,13.3833,99.85
+70150,Chom Bung,Ratchaburi,13.6167,99.6
+70160,Bang Phae,Ratchaburi,13.7,99.9333
+70170,Wat Phleng,Ratchaburi,13.45,99.9
+70180,Suan Phung,Ratchaburi,13.5167,99.35
+72000,Muang Suphan Buri,Suphanburi,14.576,100.0286
+72110,Song Phi Nong,Suphanburi,14.2167,100.05
+72120,Doembang Nangbuat,Suphanburi,14.576,100.0286
+72130,Sam Chuk,Suphanburi,14.75,100.1
+72140,Si Prachan,Suphanburi,14.6167,100.15
+72150,Bang Pla Ma,Suphanburi,14.4228,100.1381
+72160,U-Thong,Suphanburi,14.576,100.0286
+72170,Don Chedi,Suphanburi,14.6333,100.0333
+72180,Dan Chang,Suphanburi,14.8167,99.7
+72240,Nong Yasai,Suphanburi,14.576,100.0286
+73000,Muang Nakhon Pathom,Nakhon Pathom,13.8667,100.1917
+73110,Sam Phran,Nakhon Pathom,13.7167,100.2167
+73120,Nakhon Chaisi,Nakhon Pathom,13.8667,100.1917
+73130,Bang Len,Nakhon Pathom,14.0167,100.1667
+73140,Khamphaeng Saen,Nakhon Pathom,13.8667,100.1917
+73150,Don Tum,Nakhon Pathom,13.8667,100.1917
+73170,Phutha Monthon,Nakhon Pathom,13.8667,100.1917
+74000,Muang Samut Sakhon,Samut Sakhon,13.5333,100.2833
+74110,Krathum Baen,Samut Sakhon,13.65,100.2667
+74120,Ban Phaeo,Samut Sakhon,13.5833,100.1167
+75000,Muang Samut Songkhram,Samut Songkhram,13.4,100
+75110,Amphawa,Samut Songkhram,13.4167,99.95
+75120,Bang Khonthi,Samut Songkhram,13.4667,99.9333
+67000,Muang Phetchabun,Phetchabun,16.4167,101.1333
+67110,Lom Sak,Phetchabun,16.7833,101.25
+67120,Lom Kao,Phetchabun,16.8833,101.2333
+67130,Wichian Buri,Phetchabun,15.6589,101.1125
+67140,Nong Phai,Phetchabun,15.9825,101.0622
+67150,Chon Daen,Phetchabun,16.1833,100.85
+67160,Bung Sam Phan,Phetchabun,15.7833,101.0333
+67170,Si Thep,Phetchabun,15.4469,101.0725
+67240,Wang Pong,Phetchabun,16.3333,100.8
+67260,Nam Nao,Phetchabun,16.75,101.75
+67270,Khao Kho,Phetchabun,16.6667,100.9667
+76000,Muang Phetchaburi,Phetchaburi,13.0694,100.0528
+76110,Ban Laem,Phetchaburi,13.2167,99.9833
+76120,Cha-Am,Phetchaburi,12.8,99.9667
+76130,Tha Yang,Phetchaburi,12.9667,100.9
+76140,Khao Yoi,Phetchaburi,13.2333,99.8333
+76150,Ban Lat,Phetchaburi,13.05,99.9333
+76160,Nong Ya Plong,Phetchaburi,13.15,99.7
+76170,Kang Krachan,Phetchaburi,13.0694,100.0528
+81000,Muang Krabi,Krabi,8.119,99.0214
+81110,Ao Luk,Krabi,8.3833,98.7167
+81120,Khlong Thom,Krabi,7.9333,99.15
+81130,Nua Khlong,Krabi,8.0667,99
+81140,Khao Phanom,Krabi,8.25,99.0333
+81150,Ko Lanta,Krabi,7.55,99.0833
+81160,Plai Phraya,Krabi,8.5833,98.8667
+82000,Muang Phang Nga,Phang Nga,8.6944,98.4389
+82110,Takua Pa,Phang Nga,8.8333,98.3667
+82120,Thai Muang,Phang Nga,8.5333,98.3
+82130,Takua Thung,Phang Nga,8.4,98.45
+82150,Khura Buri,Phang Nga,9.2,98.4333
+82160,Koh Yao,Phang Nga,8.6944,98.4389
+82170,Kapong,Phang Nga,8.6833,98.45
+82180,Thap Put,Phang Nga,8.5167,98.6333
+83000,Muang Phuket,Phuket,7.95,98.3583
+83110,Thalang,Phuket,7.9833,98.3667
+83120,Kathu,Phuket,7.9167,98.35
+84000,Muang Surat Thani,Surat Thani,9.1308,99.3628
+84110,Chaiya,Surat Thani,9.3833,99.2333
+84120,Ban Na San,Surat Thani,8.8,99.3667
+84130,Phunphin,Surat Thani,9.1167,99.2
+84140,Ko Samui,Surat Thani,9.4333,99.9667
+84150,Tha Chang,Surat Thani,9.1417,99.3313
+84160,Kanchanadit,Surat Thani,9.1667,99.4667
+84170,Tha Chana,Surat Thani,9.5667,99.15
+84180,Wiphawadi,Surat Thani,9.0333,98.9167
+84190,Wiang Sa,Surat Thani,8.6333,99.35
+84210,Chai Buri,Surat Thani,9.1133,99.4133
+84220,Don Sak,Surat Thani,9.3,99.6833
+84230,Ban Ta Khun,Surat Thani,9.1133,99.4133
+84240,Ban Na Doem,Surat Thani,8.8833,99.3167
+84250,Phanom,Surat Thani,8.8167,98.8333
+84260,Khian Sa,Surat Thani,8.85,99.2333
+84280,Ko Phangan,Surat Thani,9.7167,100
+85000,Muang Ranong,Ranong,9.9667,98.6333
+85110,Kra Buri,Ranong,10.4,98.7833
+85120,Kapoe,Ranong,9.5833,98.6
+85130,La-Un,Ranong,10.1167,98.7667
+90000,Muang Songkhla,Songkhla,7.0167,100.6619
+90110,Bang Klam,Songkhla,7.1,100.4167
+90120,Sa Dao,Songkhla,7.0694,100.6
+90130,Chana,Songkhla,6.9167,100.7333
+90140,Ranot,Songkhla,7.7667,100.3167
+90150,Thepha,Songkhla,6.8667,100.9667
+90160,Na Thawi,Songkhla,6.75,100.7
+90180,Rattapum,Songkhla,7.0694,100.6
+90190,Sating Phra,Songkhla,7.0694,100.6
+90210,Sabayoi,Songkhla,6.7,101.0333
+90220,Kuan Niang,Songkhla,6.7,101.0333
+90230,Khlong Hoykhong,Songkhla,6.7,101.0333
+90270,Krasae Sin,Songkhla,6.7,101.0333
+90310,Na Mom,Songkhla,7.0167,100.6619
+90330,Singha Nakorn,Songkhla,7.0167,100.6619
+91000,Muang Satun,Satun,6.9292,99.8708
+91110,Langu,Satun,6.8833,99.7833
+91120,Thung Wa,Satun,7.1,99.7667
+91130,Manung,Satun,6.8667,100.0167
+91150,Tha Phae,Satun,6.8667,99.9167
+91160,Khuan Doan,Satun,6.9292,99.8708
+92000,Muang Trang,Trang,7.5611,99.5417
+92110,Kantang,Trang,7.4167,99.5167
+92120,Had Samran,Trang,7.3333,99.8
+92130,Huai Yot,Trang,7.75,99.6167
+92140,Yan Tak Kao,Trang,7.5267,99.5933
+92150,Sikao,Trang,7.5667,99.35
+92160,Rachada,Trang,7.5267,99.5933
+92170,Na Yong,Trang,7.5667,99.6833
+92220,Wang Wiset,Trang,7.7333,99.2833
+94000,Muang Pattani,Pattani,6.758,101.3775
+94110,Sai Buri,Pattani,6.7031,101.6203
+94120,Khok Pho,Pattani,6.7314,101.1053
+94130,Panare,Pattani,6.86,101.4903
+94140,Thung Yan Daeng,Pattani,6.7794,101.3362
+94150,Yaring,Pattani,6.8617,101.365
+94160,Yarang,Pattani,6.7728,101.3133
+94170,Nong Chik,Pattani,6.8453,101.1881
+94180,Mae Lan,Pattani,6.6819,101.2714
+94220,Mai Kaen,Pattani,6.6078,101.6667
+94230,Kpho,Pattani,6.6078,101.6667
+95000,Muang Yala,Yala,6.5428,101.2836
+95110,Betong,Yala,5.75,101.0833
+95120,Ka Bung,Yala,6.4778,101.135
+95130,Bannang Sata,Yala,6.2667,101.2667
+95140,Raman,Yala,6.4797,101.4225
+95150,Than To,Yala,6.2167,101.15
+96000,Muang Narathiwat,Narathiwat,6.25,102.0333
+96110,Tak Bai,Narathiwat,6.2667,102.05
+96120,Sungai Kolok,Narathiwat,6.0267,101.9678
+96130,Rangae,Narathiwat,6.2908,101.7119
+96140,Sungai Padi,Narathiwat,6.15,101.9
+96150,Ruso,Narathiwat,6.3936,101.5197
+96160,Waeng,Narathiwat,5.9333,101.9
+96170,Bacho,Narathiwat,6.6167,101.65
+96180,Yi-Ngo,Narathiwat,6.2014,101.8103
+96190,Sukhirin,Narathiwat,5.9333,101.7833
+96210,Si Sakhon,Narathiwat,6.15,101.55
+96220,Chanae,Narathiwat,6.1106,101.6897
+13000,Pharnakhon Si Ayutthaya,Phranakhon Si Ayutthaya,14.3738,100.5631
+13110,Sena,Phranakhon Si Ayutthaya,14.3167,100.4
+13120,Pak Hai,Phranakhon Si Ayutthaya,14.3619,100.6
+13130,Tha Rua,Phranakhon Si Ayutthaya,14.5667,100.7333
+13140,Phachi,Phranakhon Si Ayutthaya,14.45,100.7167
+13150,Maha Rat,Phranakhon Si Ayutthaya,14.5333,100.5333
+13160,Bang Pa-In,Phranakhon Si Ayutthaya,14.2333,100.5833
+13170,Wang Noi,Phranakhon Si Ayutthaya,14.2167,100.7333
+13190,Bang Sai,Phranakhon Si Ayutthaya,14.2167,100.5
+13210,Uthai,Phranakhon Si Ayutthaya,14.3667,100.6667
+13220,Bang Pahan,Phranakhon Si Ayutthaya,14.45,100.55
+13230,Lat Bua Luang,Phranakhon Si Ayutthaya,14.1667,100.3167
+13240,Ban Phraek,Phranakhon Si Ayutthaya,14.6333,100.5667
+13250,Bang Ban,Phranakhon Si Ayutthaya,14.4167,100.4667
+13260,Nakhon Luang,Phranakhon Si Ayutthaya,14.45,100.6167
+13270,Bang Sai,Phranakhon Si Ayutthaya,14.2167,100.5
+15000,Muang Lopburi,Lopburi,14.8,100.6167
+15110,Ban Mi,Lopburi,15.0436,100.5661
+15120,Khok Samrong,Lopburi,15.0644,100.7228
+15130,Chai Badan,Lopburi,15.2,101.1333
+15140,Phattana Nikhom,Lopburi,15.0216,100.7911
+15150,Tha Wung,Lopburi,14.8167,100.5167
+15170,Nong Muang,Lopburi,15.0216,100.7911
+15190,Lum Sunthi,Lopburi,15.0216,100.7911
+15240,Sa Bot,Lopburi,15.35,100.8167
+15250,Khok Charoen,Lopburi,15.35,100.8167
+16000,Muang Sing Buri,Singburi,14.8708,100.375
+16110,In Buri,Singburi,15,100.3333
+16120,Phrom Buri,Singburi,14.8333,100.45
+16130,Bang Rachan,Singburi,14.8833,100.3167
+16140,Tha Chang,Singburi,14.7667,100.4
+16150,Khai Bang Rachan,Singburi,14.8708,100.375
+17000,Muang Chainat,Chainat,15.1833,100.1333
+17100,Nong Mamong,Chainat,15.2775,99.8769
+17110,Manorom,Chainat,15.3167,100.0833
+17120,Wat Sing,Chainat,15.2667,100.05
+17130,Non Kham,Chainat,14.9833,100.0167
+17140,Sankhaburi,Chainat,15.05,100.1667
+17150,Sanphaya,Chainat,15.1333,100.25
+20000,Muang Chonburi,Chonburi,13.1604,101.1083
+20110,Si Racha,Chonburi,13.1667,100.9333
+20120,Ko Sichang,Chonburi,13.1452,101.0619
+20140,Phanat Nikhom,Chonburi,13.45,101.1833
+20150,Bang Lamung,Chonburi,13.05,100.9333
+20160,Phan Thong,Chonburi,13.4667,101.1
+20170,Ban Bung,Chonburi,13.0667,101
+20180,Sattahip,Chonburi,12.6667,100.9
+20190,Nong Yai,Chonburi,13.15,101.3833
+20240,Ko Chan,Chonburi,13.2667,101.4333
+20270,Bo Thong,Chonburi,13.2667,101.4333
+25000,Muang Prachinburi,Prachinburi,14.0048,101.5198
+25110,Kabin Buri,Prachinburi,13.9833,101.7167
+25130,Prachantakham,Prachinburi,14.0619,101.5186
+25140,Si Maha Phot,Prachinburi,13.9667,101.5167
+25150,Ban Sang,Prachinburi,14,101.2333
+25190,Khok Pip,Prachinburi,13.8833,101.4
+25220,Na Di,Prachinburi,14.1333,101.7333
+31000,Ban Dan,Burirum,13.9167,102.0167
+31110,Nang Rong,Burirum,14.6333,102.8
+31120,Phutthaisong,Burirum,15.4167,102.9
+31130,Lam Phai Mat,Burirum,14.9088,102.9959
+31140,Prakhon Chai,Burirum,14.6167,103.0833
+31150,Kandong,Burirum,15.3,103.3
+31160,Krasang,Burirum,14.9167,103.3
+31170,Lahan Sai,Burirum,14.4167,102.8667
+31180,Ban Kruat,Burirum,15.0128,103.0967
+31190,Khu Muang,Burirum,15.2833,103.0333
+31210,Nong Ki,Burirum,14.6667,102.5333
+31220,Pak Kam,Burirum,14.9625,102.5917
+31230,Na Pho,Burirum,15.6333,102.95
+31240,Nong Hong,Burirum,14.8333,102.7333
+31250,Ban Phlapphla,Burirum,14.7167,102.15
+31260,Non Dindaeng,Burirum,14.9625,102.5917
+33000,Muang Sisaket,Sisaket,15.1167,104.3333
+33110,Kantharalak,Sisaket,14.65,104.65
+33120,Po Sri Suwan,Sisaket,15.1133,104.1408
+33130,Nam Kliang,Sisaket,14.9,104.55
+33140,Khukhan,Sisaket,15.1167,104.3333
+33150,Khun Han,Sisaket,14.6333,104.3667
+33160,Silalad,Sisaket,15.3333,104.15
+33170,Prang Ku,Sisaket,14.85,104.0333
+33180,Phrai Bung,Sisaket,14.75,104.35
+33190,Yang Chum Noi,Sisaket,15.2667,104.35
+33210,Huai Thap Than,Sisaket,15.05,104.0333
+33220,Bung Bun,Sisaket,15.3214,104.0572
+33230,Phayu,Sisaket,14.9809,104.3381
+33240,Si Rattana,Sisaket,14.7333,104.5833
+33250,Non Khun,Sisaket,14.9167,104.7333
+33270,Wang Hin,Sisaket,14.8833,104.2833
+34110,Phibun Mangsahan,Na Tan,15.2333,105.2333
+34130,Trakan Puetphon,Na Tan,15.6417,105.225
+34190,Sawang Werarong,Na Tan,15.6417,105.225
+34250,Si Muang Mai,Na Tan,15.4833,105.2833
+34260,Nam Khun,Na Tan,12.9167,102.0333
+34330,Tan Sum,Na Tan,15.3833,105.1167
+34340,Po Sai,Na Tan,14.5167,102.85
+34350,Sirinhon,Na Tan,14.5167,102.85
+34360,Samrong,Na Tan,13.65,100.5833
+39000,Muang Nong Bua Lam Phu,Non Bua Lam Phu,17.0409,102.3544
+39140,Non Sang,Non Bua Lam Phu,16.8667,102.5667
+39170,Na Klang,Non Bua Lam Phu,17.2894,102.2133
+39180,Si Bun Ruang,Non Bua Lam Phu,16.9667,102.2833
+39270,Suwannakhuha,Non Bua Lam Phu,17.0409,102.3544
+71000,Muang Kanchanaburi,Khanchanaburi,14.2617,99.4036
+71110,Tha Muang,Khanchanaburi,13.9667,99.6333
+71120,Tha Maka,Khanchanaburi,13.9,99.7667
+71140,Phanom Thuan,Khanchanaburi,14.1258,99.7011
+71150,Sai Yok,Khanchanaburi,14.1169,99.1375
+71160,Bo Phloi,Khanchanaburi,14.3236,99.5161
+71170,Huai Khaiaw,Khanchanaburi,14.0866,99.5509
+71180,Thong Phaphum,Khanchanaburi,14.0866,99.5509
+71210,Lao Khwan,Khanchanaburi,14.65,99.8
+71220,Nong Prue,Khanchanaburi,14.4806,99.2194
+71240,Sangkhla Buri,Khanchanaburi,14.7333,98.6333
+71250,Si Sawat,Khanchanaburi,14.6892,99.0275
+71260,Dan Makham Tia,Khanchanaburi,13.85,99.4167
+77000,Muang prachuap Khirikan,Prachuap Khirikhan,11.7972,99.7278
+77110,Hua Hin,Prachuap Khirikhan,12.5667,99.9667
+77120,Pran Buri,Prachuap Khirikhan,12.3833,99.9167
+77130,Thap Sakae,Prachuap Khirikhan,11.5,99.6167
+77140,Bang Saphan,Prachuap Khirikhan,11.2,99.5167
+77150,Kui Buri,Prachuap Khirikhan,12.05,99.8667
+77170,Bang Saphan Noi,Prachuap Khirikhan,11.0833,99.4833
+77180,Samaroiyod,Prachuap Khirikhan,11.7972,99.7278
+80000,Phra Phrom,Nakhon Sie Thammarat,14.65,100.6
+80110,Thung Song,Nakhon Sie Thammarat,8.15,99.7333
+80120,Sichon,Nakhon Sie Thammarat,9,99.9
+80130,Ron Phibun,Nakhon Sie Thammarat,8.15,99.85
+80140,Pak Phanang,Nakhon Sie Thammarat,8.35,100.2
+80150,Chawang,Nakhon Sie Thammarat,8.4167,99.5
+80160,Nob Pitam,Nakhon Sie Thammarat,8.6667,99.9333
+80170,Hua Sai,Nakhon Sie Thammarat,8.0333,100.3
+80180,Cha-uat,Nakhon Sie Thammarat,7.9667,100
+80190,Chian Yai,Nakhon Sie Thammarat,8.1667,100.15
+80210,Khanom,Nakhon Sie Thammarat,9.2,99.8667
+80220,Na Bon,Nakhon Sie Thammarat,8.25,99.5833
+80230,Lan Saka,Nakhon Sie Thammarat,8.35,99.8
+80240,Thung Yai,Nakhon Sie Thammarat,8.3,99.3667
+80250,Chang Khlang,Nakhon Sie Thammarat,8.54,99.65
+80260,Tham Punnara,Nakhon Sie Thammarat,8.54,99.65
+80270,Phipun,Nakhon Sie Thammarat,8.6,99.6333
+80320,Phromkhiri,Nakhon Sie Thammarat,8,99.5333
+80360,Bang Khan,Nakhon Sie Thammarat,8,99.5333
+86000,Muang Chumphon,Chumphon,10.1905,99.0905
+86110,Lang Suan,Chumphon,9.95,99.0667
+86130,Sawi,Chumphon,10.2333,99.0833
+86140,Tha Sae,Chumphon,10.6667,99.1667
+86160,Pathiu,Chumphon,10.7,99.3167
+86170,Lamae,Chumphon,9.85,99.0833
+86180,Phato,Chumphon,9.8,98.8
+86220,Thung Tako,Chumphon,10.1333,99.1167
+93000,Sri Nakharin,Phatthalung,7.4944,100.0583
+93110,Pa Payam,Phatthalung,7.7333,100.0167
+93120,Pak Phayun,Phatthalung,7.35,100.3167
+93130,Khao Chaison,Phatthalung,7.4167,100.0833
+93140,Bang Kaeo,Phatthalung,7.4944,100.0583
+93160,Tamot,Phatthalung,7.2833,100.05
+93170,Pa Bon,Phatthalung,7.4944,100.0583
+93180,Kong Ra,Phatthalung,7.4667,99.95
+93190,Si Ban Phot,Phatthalung,7.7167,99.9333
