@@ -1,4 +1,4 @@
-# cdrhelper -- Make and analyze fake CDR data
+# `cdrhelper` — Make and analyze fake CDR data
 ## Introduction
 Just a small, simple Python package I made to help people simulate, import, and analyze network data -- 
 specifically, network data represented in the form of call detail records (CDR) aggregated up to the day level.
@@ -8,6 +8,8 @@ experience of playing with "real" network data. This package will help create fi
 real CDR files using an underlying network that is known to (and specified by) the user. It's derived mostly
 from my own simulation exercise, but enough people expressed interest that I'm putting it up here in a 
 refactored, probably-still-buggy form.
+
+It uses `Python 2.7` and hasn't been tested in `3+`.
 
 ## CDR format
 CDRs come in a wide range of formats and styles, but the most basic (aggregated) CDR will look something like this:
@@ -37,7 +39,7 @@ value.
 
 ## Usage
 ### Installation
-Download all files as a zip and put the `cdrhelper` directory (the subfolder containing `__init__.py`) into your working directory. There may be some issues on Windows machines -- looking into a workaround.
+Download all files as a zip and put the `cdrhelper` directory (the subfolder containing `__init__.py`) into your working directory. There may be some issues on Windows machines --- looking into a workaround.
 
 ### Import
 ```
@@ -70,7 +72,7 @@ def makeData(postcodes, ageweight, nodes = 30, edges = 10, days = 10,
 ```
 
 #### (2) The long way
-Make a graph representing your "ground truth" network -- i.e., the network in the whole world.
+Make a graph representing your "ground truth" network --- i.e., the network in the whole world.
 ```
 G = nx.barabasi_albert_graph(n = 1000, m = 25)
 ```
